@@ -2,7 +2,7 @@
 
 # Qu'est-ce que c'est ?
 
-Ceci est un projet de visualisation de données, qui utilise le langage de programmation Phyton.
+Ceci est un projet de visualisation de données, qui utilise le langage de programmation Python.
 Il utilise deux outils : [pandas](https://pandas.pydata.org/about/) et [plotly](https://plotly.com/python/).
 
 - Pandas va nous permettre de télécharger un fichier de données CSV depuis une URL.

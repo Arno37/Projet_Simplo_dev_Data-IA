@@ -1,4 +1,4 @@
-[Visualisation des données](https://separated-alike-papyrus.glitch.me)
+[Visualisation des données avec Plotly](https://separated-alike-papyrus.glitch.me)
 
 # Qu'est-ce que c'est ?
 
